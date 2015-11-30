@@ -1,0 +1,13 @@
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Domain.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Moq.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Ninject.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Domain.pdb
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Moq.xml
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\Ninject.xml
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\UnitTests\obj\Debug\UnitTests.pdb
