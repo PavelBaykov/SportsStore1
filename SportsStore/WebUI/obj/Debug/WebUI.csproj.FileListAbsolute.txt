@@ -24,10 +24,7 @@ C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\Sp
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\System.Web.Webpages.Deployment.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\System.Web.Webpages.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\System.Web.Webpages.Razor.dll
-C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\UnitTests.dll
-C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\Domain.pdb
-C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\UnitTests.pdb
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\Moq.xml
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\Ninject.xml
@@ -43,7 +40,6 @@ C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\Sp
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Helpers.resources.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Mvc.resources.dll
-C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.dll
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.pdb
 C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
@@ -99,3 +95,6 @@ D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.pdb
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\EntityFramework.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\EntityFramework.xml
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\ru\EntityFramework.resources.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\EntityFramework.dll
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\EntityFramework.xml
+C:\Users\Pavel.Baykov\Desktop\FR\Training\ASP\SportsStore\origin\SportsStore1\SportsStore\WebUI\bin\ru\EntityFramework.resources.dll

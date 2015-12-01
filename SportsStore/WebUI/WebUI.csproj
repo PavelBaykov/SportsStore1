@@ -124,7 +124,10 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="HtmlHelpers\PagingHelpers.cs" />
     <Compile Include="Infrastructure\NinjectControllerFactory.cs" />
+    <Compile Include="Models\PagingInfo.cs" />
+    <Compile Include="Models\ProductsListViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -143,16 +146,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\SportsStore.Domain.csproj">
       <Project>{3729272d-87ac-4db1-b0b4-0ae16977536d}</Project>
       <Name>SportsStore.Domain</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\UnitTests\SportsStore.UnitTests.csproj">
-      <Project>{56a57047-e8a7-4802-a2c4-0f4dd61be88d}</Project>
-      <Name>SportsStore.UnitTests</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
