@@ -32,7 +32,7 @@ namespace WebUI.Controllers
                     ItemsPerPage = PageSize,
                     TotalItems = repository.Products.Count()
                 },
-                ProductCategory = currentCategoryParam
+                CurrentCategory = currentCategoryParam
             };
             return View(model);
         }

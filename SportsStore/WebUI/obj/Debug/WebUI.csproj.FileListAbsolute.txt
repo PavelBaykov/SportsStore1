@@ -69,10 +69,7 @@ D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\System.Web.Razor.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\System.Web.Webpages.Deployment.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\System.Web.Webpages.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\System.Web.Webpages.Razor.dll
-D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\UnitTests.dll
-D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\Domain.pdb
-D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\UnitTests.pdb
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\Moq.xml
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\Ninject.xml
@@ -88,7 +85,6 @@ D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Webpage
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Helpers.resources.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\ru\System.Web.Mvc.resources.dll
-D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\bin\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.dll
 D:\FR\Training\ASP\Repo\SportsStore1\SportsStore\WebUI\obj\Debug\WebUI.pdb
