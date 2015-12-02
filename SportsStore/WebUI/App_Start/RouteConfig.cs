@@ -18,7 +18,7 @@ namespace WebUI
             {
                 controller = "Product",
                 action = "List",
-                category = (string)null,
+                currentCategoryParam = (string)null,
                 page = 1
             }
             );
